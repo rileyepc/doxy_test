@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_prototype_8cpp" xml:lang="en-US">
+<title>prototype.cpp File Reference</title>
+<indexterm><primary>prototype.cpp</primary></indexterm>
+<programlisting linenumbering="unnumbered">#include &lt;iostream&gt;
+</programlisting><simplesect>
+    <title>Functions    </title>
+        <itemizedlist>
+            <listitem><para>int <link linkend="_prototype_8cpp_1ae9e80f72ea764075aace5d65cebc1ced">add</link> (int, int)</para>
+</listitem>
+            <listitem><para>int <link linkend="_prototype_8cpp_1ae66f6b31b5ad750f1fe042a706a4e3d4">main</link> ()</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<section>
+<title>Function Documentation</title>
+<anchor xml:id="_prototype_8cpp_1ae9e80f72ea764075aace5d65cebc1ced"/><section>
+    <title>add()</title>
+<indexterm><primary>add</primary><secondary>prototype.cpp</secondary></indexterm>
+<indexterm><primary>prototype.cpp</primary><secondary>add</secondary></indexterm>
+<para><computeroutput>int add (int a, int b)</computeroutput></para></section>
+<anchor xml:id="_prototype_8cpp_1ae66f6b31b5ad750f1fe042a706a4e3d4"/><section>
+    <title>main()</title>
+<indexterm><primary>main</primary><secondary>prototype.cpp</secondary></indexterm>
+<indexterm><primary>prototype.cpp</primary><secondary>main</secondary></indexterm>
+<para><computeroutput>int main ( )</computeroutput></para></section>
+</section>
+</section>

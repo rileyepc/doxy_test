@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_classb" xml:lang="en-US">
+<title>b Class Reference</title>
+<indexterm><primary>b</primary></indexterm>
+<section>
+<title>Detailed Description</title>
+
+<para>
+                <formalpara>
+                    <title>
+Parameters</title>
+                    <para>
+                    <table frame="all">
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+<entry>a</entry><entry>
+<para>this is parameter describes a </para>
+</entry>
+                            </row>
+                            <row>
+<entry>b</entry><entry>
+<para>this parameter descirbes b </para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                    </para>
+                </formalpara>
+                <formalpara><title>Returns</title>
+
+<para>int </para>
+</formalpara>
+</para>
+</section>
+</section>
